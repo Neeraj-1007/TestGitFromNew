@@ -1,1 +1,2 @@
 FirstLine in text file MAIN BRANCH.
+Second line in text file MAIN BRANCH
