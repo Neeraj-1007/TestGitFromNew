@@ -1,1 +1,3 @@
 FirstLine in text file MAIN BRANCH.
+
+First line in this file DEV1 BRANCH.
