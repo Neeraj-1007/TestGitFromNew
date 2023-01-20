@@ -1,4 +1,6 @@
 FirstLine in text file MAIN BRANCH.
 
 First line in this file DEV1 BRANCH.This line must not change or delete.
+Second line in text file MAIN BRANCH
 
+Third line to commit from Dev 1 Branch
